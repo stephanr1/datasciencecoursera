@@ -1,4 +1,5 @@
 # datasciencecoursera
 ##This is a markdown file
-*first bullet 
+*first 
+
 *another bullet
