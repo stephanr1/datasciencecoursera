@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for courser coursera assignment
+Repo for coursera assignment
